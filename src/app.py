@@ -25,7 +25,8 @@ st.set_page_config(
 # Função de cache para melhorar o desempenho
 @st.cache_data
 def load_data():
-    return pd.read_csv("/workspaces/projeto-desenvolve-desafio-python/data/Spotify_Youtube.csv")
+    return pd.read_csv("data/Spotify_Youtube.csv")
+
 
 
 data = load_data()
