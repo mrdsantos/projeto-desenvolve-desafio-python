@@ -14,6 +14,9 @@ A ideia surgiu da necessidade de criar uma plataforma visualmente atraente e fun
 ### Dashboard
 ![Dashboard](./images/screenshot.png)
 
+### Veja ao vivo
+![Live](https://desafio-desenvolve.streamlit.app/)
+
 ### Funcionalidades:
 - **Filtro de Artista**: Escolha um artista específico ou visualize todos os artistas.
 - **Filtros Avançados**: Descubra as top músicas dançáveis, instrumentais, e muito mais!
