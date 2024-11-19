@@ -44,7 +44,7 @@ Os dados são provenientes de um arquivo CSV contendo informações sobre músic
 
 1. **Clone o Repositório**:
    ```bash
-   git clone https://github.com/seu-usuario/song-library-dashboard.git
+   git clone https://github.com/mrdsantos/song-library-dashboard.git
    ```
 2. **Instale as Dependências**:
    ```bash
